@@ -1,0 +1,11 @@
+.heading{
+    width: 100%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+canvas{
+    border: 5px solid black;
+}
